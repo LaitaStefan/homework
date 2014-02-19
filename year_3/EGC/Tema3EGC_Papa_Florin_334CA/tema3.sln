@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab_gl_3", "lab_gl_3.vcxproj", "{E8D7D48F-7AB1-4260-BCEC-8CC11D9FBC01}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F290C78B-1F62-40B1-A98F-B232F9CC753D}"
+	ProjectSection(SolutionItems) = preProject
+		my_fragment_shader.glsl = my_fragment_shader.glsl
+		my_shader_vertex.glsl = my_shader_vertex.glsl
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8D7D48F-7AB1-4260-BCEC-8CC11D9FBC01}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E8D7D48F-7AB1-4260-BCEC-8CC11D9FBC01}.Debug|Win32.Build.0 = Debug|Win32
+		{E8D7D48F-7AB1-4260-BCEC-8CC11D9FBC01}.Release|Win32.ActiveCfg = Release|Win32
+		{E8D7D48F-7AB1-4260-BCEC-8CC11D9FBC01}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

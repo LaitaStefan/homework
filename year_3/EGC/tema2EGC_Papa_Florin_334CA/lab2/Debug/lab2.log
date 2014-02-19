@@ -1,0 +1,170 @@
+﻿Build started 11/15/2013 10:32:11 PM.
+     1>Project "C:\Users\papaflorin\Desktop\tema2EGC\lab3\lab2\lab2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Idependente /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\framework\object2d.h(23): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\framework\object3d.h(18): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\framework\object3d.h(45): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\framework\object3d.h(50): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\framework\object3d.h(63): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\framework\object3d.h(68): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\framework\circle2d.h(24): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\framework\circle2d.h(48): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\road.h(24): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\road.h(25): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\road.h(26): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\road.h(27): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\road.h(28): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\road.h(29): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\road.h(30): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\road.h(31): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\wiresphere.h(21): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\wiresphere.h(22): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\wiresphere.h(26): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\wiresphere.h(27): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\wiresphere.h(36): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\wiresphere.h(37): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\wiresphere.h(50): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\wiresphere.h(51): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\cube.h(20): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\cube.h(21): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\cube.h(22): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\cube.h(23): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\cube.h(24): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\cube.h(25): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\cube.h(26): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\cube.h(27): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\cube.h(29): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\cube.h(30): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\cube.h(31): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\cube.h(32): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\cube.h(33): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\cube.h(34): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\cube.h(35): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\cube.h(36): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\fuelcylinder.h(25): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\fuelcylinder.h(32): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\fuelcylinder.h(32): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\fuelcylinder.h(52): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\fuelcylinder.h(52): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\fuelcylinder.h(59): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\fuelcylinder.h(59): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\tethra.h(19): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\tethra.h(20): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\tethra.h(21): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\tethra.h(22): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\tethra.h(23): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\tethra.h(24): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\tethra.h(25): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\tethra.h(26): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\tethra.h(27): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\tethra.h(28): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\wheel.h(16): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\wheel.h(17): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\wheel.h(24): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\wheel.h(25): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(62): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(63): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(64): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(65): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(66): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(67): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(68): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(69): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(126): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(127): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(128): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(129): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(130): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(131): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(132): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(133): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(186): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(187): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(188): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(189): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(221): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(223): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(229): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(231): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(237): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(239): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(245): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\car.h(247): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\collisions.h(35): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\collisions.h(39): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\collisions.h(62): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\collisions.h(114): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\collisions.h(115): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\collisions.h(120): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\collisions.h(124): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\collisions.h(125): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\collisions.h(130): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\collisions.h(137): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\collisions.h(148): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\collisions.h(155): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\collisions.h(177): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\collisions.h(184): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\stripes.h(29): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\stripes.h(30): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\stripes.h(31): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\stripes.h(32): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\stripes.h(48): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\stripes.h(49): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\stripes.h(50): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\stripes.h(51): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\background.h(16): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\background.h(17): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\background.h(18): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\background.h(19): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\background.h(20): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\background.h(21): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\background.h(22): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\background.h(23): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\background.h(24): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\background.h(25): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\background.h(33): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(45): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(49): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(65): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(66): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(72): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(76): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(77): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(83): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(87): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(94): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(95): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(99): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(104): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(105): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(113): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(158): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(163): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(164): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(171): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(175): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(177): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(182): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(187): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(192): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(206): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(216): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(247): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(250): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(252): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(254): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\papaflorin\desktop\tema2egc\lab3\lab2\main.cpp(255): warning C4305: '-=' : truncation from 'double' to 'float'
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\papaflorin\Desktop\tema2EGC\lab3\Debug\tema2EGC.exe" /INCREMENTAL /NOLOGO /LIBPATH:dependente freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\papaflorin\Desktop\tema2EGC\lab3\Debug\tema2EGC.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\papaflorin\Desktop\tema2EGC\lab3\Debug\tema2EGC.lib" /MACHINE:X86 Debug\DrawingWindow.obj
+         Debug\Transform2D.obj
+         Debug\Transform3D.obj
+         Debug\Visual2D.obj
+         Debug\main.obj
+         lab2.vcxproj -> C:\Users\papaflorin\Desktop\tema2EGC\lab3\Debug\tema2EGC.exe
+     1>Done Building Project "C:\Users\papaflorin\Desktop\tema2EGC\lab3\lab2\lab2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.03

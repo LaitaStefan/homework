@@ -1,0 +1,150 @@
+; 8.8.8.8 - google.com A 
+
+;; ANSWER SECTION:
+google.com. IN A 62.231.75.241 
+google.com. IN A 62.231.75.221 
+google.com. IN A 62.231.75.247 
+google.com. IN A 62.231.75.231 
+google.com. IN A 62.231.75.216 
+google.com. IN A 62.231.75.237 
+google.com. IN A 62.231.75.222 
+google.com. IN A 62.231.75.217 
+google.com. IN A 62.231.75.226 
+google.com. IN A 62.231.75.242 
+google.com. IN A 62.231.75.236 
+google.com. IN A 62.231.75.232 
+google.com. IN A 62.231.75.246 
+google.com. IN A 62.231.75.212 
+google.com. IN A 62.231.75.251 
+google.com. IN A 62.231.75.227 
+
+
+; 141.85.128.1 - google.com CNAME
+
+;; AUTHORITY SECTION:
+google.com SOA IN ns1.google.com. dns-admin.google.com. 23 0 0 18 0
+
+
+
+; 141.85.128.1 - google.com A
+
+;; ANSWER SECTION:
+google.com A IN 173.194.113.98
+google.com A IN 173.194.113.99
+google.com A IN 173.194.113.100
+google.com A IN 173.194.113.101
+google.com A IN 173.194.113.102
+google.com A IN 173.194.113.103
+google.com A IN 173.194.113.104
+google.com A IN 173.194.113.105
+google.com A IN 173.194.113.110
+google.com A IN 173.194.113.96
+google.com A IN 173.194.113.97
+
+;; AUTHORITY SECTION:
+google.com NS IN ns3.google.com.
+google.com NS IN ns4.google.com.
+google.com NS IN ns1.google.com.
+google.com NS IN ns2.google.com.
+
+;; ADDITIONAL SECTION:
+google.com A IN 216.239.32.10
+google.com A IN 216.239.34.10
+google.com A IN 216.239.36.10
+google.com A IN 216.239.38.10
+
+
+
+; 141.85.128.1 - google.com SOA
+
+;; ANSWER SECTION:
+google.com SOA IN ns1.google.com. dns-admin.google.com. 30716 0 0 18 0
+
+;; AUTHORITY SECTION:
+google.com NS IN ns4.google.com.
+google.com NS IN ns1.google.com.
+google.com NS IN ns2.google.com.
+google.com NS IN ns3.google.com.
+
+;; ADDITIONAL SECTION:
+google.com A IN 216.239.32.10
+google.com A IN 216.239.34.10
+google.com A IN 216.239.36.10
+google.com A IN 216.239.38.10
+
+
+
+; 141.85.128.1 - google.com MX
+
+;; ANSWER SECTION:
+google.com MX IN 30 alt2.aspmx.l.google.com.
+google.com MX IN 40 alt3.aspmx.l.google.com.
+google.com MX IN 50 alt4.aspmx.l.google.com.
+google.com MX IN 10 aspmx.l.google.com.
+google.com MX IN 20 alt1.aspmx.l.google.com.
+
+;; AUTHORITY SECTION:
+google.com NS IN ns4.google.com.
+google.com NS IN ns1.google.com.
+google.com NS IN ns2.google.com.
+google.com NS IN ns3.google.com.
+
+;; ADDITIONAL SECTION:
+google.com A IN 173.194.70.26
+google.com A IN 173.194.71.26
+google.com A IN 74.125.25.26
+google.com A IN 216.239.32.10
+google.com A IN 216.239.34.10
+google.com A IN 216.239.36.10
+google.com A IN 216.239.38.10
+
+
+
+; 8.8.8.8 - google.com NS
+
+;; ANSWER SECTION:
+google.com NS IN ns3.google.com.
+google.com NS IN ns1.google.com.
+google.com NS IN ns4.google.com.
+google.com NS IN ns2.google.com.
+
+
+
+; 141.85.128.1 - google.com TXT
+
+;; ANSWER SECTION:
+google.com TXT IN Kv=spf1 include:_spf.google.com ip4:216.73.93.70/31 ip4:216.73.93.72/31 ~all
+
+;; AUTHORITY SECTION:
+google.com NS IN ns3.google.com.
+google.com NS IN ns4.google.com.
+google.com NS IN ns1.google.com.
+google.com NS IN ns2.google.com.
+
+;; ADDITIONAL SECTION:
+google.com A IN 216.239.32.10
+google.com A IN 216.239.34.10
+google.com A IN 216.239.36.10
+google.com A IN 216.239.38.10
+
+
+
+; 141.85.128.1 - google.com SOA
+
+;; ANSWER SECTION:
+google.com SOA IN ns1.google.com. dns-admin.google.com. 30716 0 0 18 0
+
+;; AUTHORITY SECTION:
+google.com NS IN ns4.google.com.
+google.com NS IN ns1.google.com.
+google.com NS IN ns2.google.com.
+google.com NS IN ns3.google.com.
+
+;; ADDITIONAL SECTION:
+google.com A IN 216.239.32.10
+google.com A IN 216.239.34.10
+google.com A IN 216.239.36.10
+google.com A IN 216.239.38.10
+
+
+

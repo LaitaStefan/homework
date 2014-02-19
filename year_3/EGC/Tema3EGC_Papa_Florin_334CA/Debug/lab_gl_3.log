@@ -1,0 +1,62 @@
+﻿Build started 12/8/2013 2:10:58 AM.
+     1>Project "D:\facultate\an3\teme\tema3EGC\Tema3EGC_Papa_Florin_334CA\lab_gl_3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\lab_mesh_loader.hpp(73): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\lab_mesh_loader.hpp(76): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\utils.h(25): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\utils.h(29): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\utils.h(34): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\utils.h(39): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\utils.h(43): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\utils.h(48): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\utils.h(97): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\utils.h(100): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\utils.h(148): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\utils.h(151): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\utils.h(154): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\utils.h(158): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\utils.h(161): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\utils.h(164): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\carmovement.h(25): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\carmovement.h(30): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\carmovement.h(31): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\carmovement.h(40): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\carmovement.h(41): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\carmovement.h(57): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\carmovement.h(58): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\carmovement.h(60): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\carmovement.h(61): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\carmovement.h(63): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\carmovement.h(64): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\carmovement.h(89): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\carmovement.h(95): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\carmovement.h(96): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\carmovement.h(97): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\carmovement.h(108): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\carmovement.h(129): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\carmovement.h(130): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\carmovement.h(131): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\carmovement.h(139): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\carmovement.h(140): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\carmovement.h(141): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\main.cpp(48): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\main.cpp(48): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\main.cpp(132): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\main.cpp(149): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\main.cpp(154): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\main.cpp(159): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\main.cpp(247): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\main.cpp(263): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\main.cpp(300): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\main.cpp(307): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>d:\facultate\an3\teme\tema3egc\tema3egc_papa_florin_334ca\main.cpp(314): warning C4305: '+=' : truncation from 'double' to 'float'
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug\tema3.exe" /INCREMENTAL /NOLOGO /LIBPATH:dependente\freeglut /LIBPATH:dependente\glew opengl32.lib freeglut.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Debug\tema3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Debug\tema3.lib" /MACHINE:X86 Debug\main.obj
+         lab_gl_3.vcxproj -> D:\facultate\an3\teme\tema3EGC\Tema3EGC_Papa_Florin_334CA\Debug\tema3.exe
+     1>Done Building Project "D:\facultate\an3\teme\tema3EGC\Tema3EGC_Papa_Florin_334CA\lab_gl_3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.84
