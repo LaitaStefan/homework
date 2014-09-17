@@ -1,0 +1,96 @@
+Results for mode 0, num_spus 1, input file /export/asc/btc_input/in1.pgm
+Compression and decompression time: 0.667795
+Total run time: 0.901033
+
+Results for mode 0, num_spus 2, input file /export/asc/btc_input/in1.pgm
+Compression and decompression time: 0.335821
+Total run time: 0.571669
+
+Results for mode 0, num_spus 4, input file /export/asc/btc_input/in1.pgm
+Compression and decompression time: 0.228612
+Total run time: 0.470128
+
+Results for mode 0, num_spus 8, input file /export/asc/btc_input/in1.pgm
+Compression and decompression time: 0.115985
+Total run time: 0.355989
+
+Results for mode 0, num_spus 1, input file /export/asc/btc_input/in2.pgm
+Compression and decompression time: 1.353780
+Total run time: 1.815332
+
+Results for mode 0, num_spus 2, input file /export/asc/btc_input/in2.pgm
+Compression and decompression time: 0.678776
+Total run time: 1.189169
+
+Results for mode 0, num_spus 4, input file /export/asc/btc_input/in2.pgm
+Compression and decompression time: 0.459539
+Total run time: 0.976124
+
+Results for mode 0, num_spus 8, input file /export/asc/btc_input/in2.pgm
+Compression and decompression time: 0.230684
+Total run time: 0.778880
+
+Results for mode 0, num_spus 1, input file /export/asc/btc_input/in3.pgm
+Compression and decompression time: 1.890027
+Total run time: 2.602531
+
+Results for mode 0, num_spus 2, input file /export/asc/btc_input/in3.pgm
+Compression and decompression time: 0.947199
+Total run time: 1.581656
+
+Results for mode 0, num_spus 4, input file /export/asc/btc_input/in3.pgm
+Compression and decompression time: 0.640238
+Total run time: 1.284273
+
+Results for mode 0, num_spus 8, input file /export/asc/btc_input/in3.pgm
+Compression and decompression time: 0.321472
+Total run time: 0.966376
+
+Results for mode 1, num_spus 1, input file /export/asc/btc_input/in1.pgm
+Compression and decompression time: 0.501494
+Total run time: 0.766519
+
+Results for mode 1, num_spus 2, input file /export/asc/btc_input/in1.pgm
+Compression and decompression time: 0.252426
+Total run time: 0.510304
+
+Results for mode 1, num_spus 4, input file /export/asc/btc_input/in1.pgm
+Compression and decompression time: 0.128163
+Total run time: 0.411113
+
+Results for mode 1, num_spus 8, input file /export/asc/btc_input/in1.pgm
+Compression and decompression time: 0.080728
+Total run time: 0.350233
+
+Results for mode 1, num_spus 1, input file /export/asc/btc_input/in2.pgm
+Compression and decompression time: 1.016735
+Total run time: 1.525743
+
+Results for mode 1, num_spus 2, input file /export/asc/btc_input/in2.pgm
+Compression and decompression time: 0.509828
+Total run time: 1.015549
+
+Results for mode 1, num_spus 4, input file /export/asc/btc_input/in2.pgm
+Compression and decompression time: 0.321649
+Total run time: 0.854358
+
+Results for mode 1, num_spus 8, input file /export/asc/btc_input/in2.pgm
+Compression and decompression time: 0.163884
+Total run time: 0.685616
+
+Results for mode 1, num_spus 1, input file /export/asc/btc_input/in3.pgm
+Compression and decompression time: 1.419670
+Total run time: 2.163000
+
+Results for mode 1, num_spus 2, input file /export/asc/btc_input/in3.pgm
+Compression and decompression time: 0.711353
+Total run time: 1.406813
+
+Results for mode 1, num_spus 4, input file /export/asc/btc_input/in3.pgm
+Compression and decompression time: 0.447487
+Total run time: 1.209598
+
+Results for mode 1, num_spus 8, input file /export/asc/btc_input/in3.pgm
+Compression and decompression time: 0.226269
+Total run time: 0.981730
+
